@@ -1,6 +1,8 @@
 # AngularTourOfHeroes
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.2.
+It's is a simple angular that simulate a tour of heroes. The dashboard show the top heroes of tour. You can also consult the list of all heroes on heroes page. Add, Update and delete a hero is also possible. It's based on tutorial from angular site.
+
+Enjoy !
 
 ## Development server
 
