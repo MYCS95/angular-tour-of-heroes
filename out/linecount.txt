@@ -1,0 +1,66 @@
+===============================================================================
+EXTENSION NAME : linecount
+EXTENSION VERSION : 0.1.7
+-------------------------------------------------------------------------------
+count time : 2018-03-09 22:51:00
+count workspace : /media/mycs/564E07364E070F05/BIBLIOTHEQUES/PROJETS/ANGULAR/angular-tour-of-heroes
+total files : 54
+total code lines : 13795
+total comment lines : 132
+total blank lines : 208
+
+.angular-cli.json, code is 58, comment is 0, blank is 2.
+.editorconfig, code is 11, comment is 1, blank is 2.
+.gitignore, code is 18, comment is 24, blank is 4.
+e2e/app.e2e-spec.ts, code is 11, comment is 0, blank is 3.
+e2e/app.po.ts, code is 9, comment is 0, blank is 2.
+e2e/tsconfig.e2e.json, code is 13, comment is 0, blank is 1.
+karma.conf.js, code is 30, comment is 3, blank is 1.
+package-lock.json, code is 12649, comment is 0, blank is 0.
+package.json, code is 49, comment is 0, blank is 0.
+protractor.conf.js, code is 23, comment is 2, blank is 3.
+README.md, code is 14, comment is 5, blank is 13.
+src/app/app-routing.module.ts, code is 16, comment is 0, blank is 4.
+src/app/app.component.css, code is 28, comment is 0, blank is 5.
+src/app/app.component.html, code is 7, comment is 0, blank is 0.
+src/app/app.component.spec.ts, code is 27, comment is 0, blank is 0.
+src/app/app.component.ts, code is 9, comment is 0, blank is 1.
+src/app/app.module.ts, code is 40, comment is 1, blank is 3.
+src/app/dashboard/dashboard.component.css, code is 63, comment is 1, blank is 14.
+src/app/dashboard/dashboard.component.html, code is 9, comment is 0, blank is 0.
+src/app/dashboard/dashboard.component.spec.ts, code is 20, comment is 0, blank is 5.
+src/app/dashboard/dashboard.component.ts, code is 19, comment is 0, blank is 7.
+src/app/hero-detail/hero-detail.component.css, code is 29, comment is 1, blank is 0.
+src/app/hero-detail/hero-detail.component.html, code is 11, comment is 0, blank is 1.
+src/app/hero-detail/hero-detail.component.spec.ts, code is 20, comment is 0, blank is 5.
+src/app/hero-detail/hero-detail.component.ts, code is 33, comment is 0, blank is 8.
+src/app/hero.service.spec.ts, code is 12, comment is 0, blank is 3.
+src/app/hero.service.ts, code is 62, comment is 16, blank is 17.
+src/app/hero.ts, code is 4, comment is 0, blank is 0.
+src/app/heroes/heroes.component.css, code is 65, comment is 1, blank is 8.
+src/app/heroes/heroes.component.html, code is 18, comment is 1, blank is 2.
+src/app/heroes/heroes.component.spec.ts, code is 20, comment is 0, blank is 5.
+src/app/heroes/heroes.component.ts, code is 31, comment is 0, blank is 10.
+src/app/in-memory-data.service.spec.ts, code is 12, comment is 0, blank is 3.
+src/app/in-memory-data.service.ts, code is 21, comment is 0, blank is 3.
+src/app/message.service.spec.ts, code is 12, comment is 0, blank is 3.
+src/app/message.service.ts, code is 12, comment is 0, blank is 5.
+src/app/messages/messages.component.css, code is 31, comment is 1, blank is 6.
+src/app/messages/messages.component.html, code is 6, comment is 0, blank is 0.
+src/app/messages/messages.component.spec.ts, code is 20, comment is 0, blank is 5.
+src/app/messages/messages.component.ts, code is 12, comment is 1, blank is 6.
+src/assets/.gitkeep, code is 0, comment is 0, blank is 0.
+src/environments/environment.prod.ts, code is 3, comment is 0, blank is 0.
+src/environments/environment.ts, code is 3, comment is 4, blank is 1.
+src/favicon.ico, it is a binary file.
+src/index.html, code is 13, comment is 0, blank is 1.
+src/main.ts, code is 9, comment is 0, blank is 3.
+src/polyfills.ts, code is 2, comment is 63, blank is 15.
+src/styles.css, code is 20, comment is 2, blank is 5.
+src/test.ts, code is 13, comment is 4, blank is 3.
+src/tsconfig.app.json, code is 12, comment is 0, blank is 1.
+src/tsconfig.spec.json, code is 16, comment is 0, blank is 3.
+src/typings.d.ts, code is 4, comment is 1, blank is 0.
+tsconfig.json, code is 17, comment is 0, blank is 2.
+tslint.json, code is 129, comment is 0, blank is 14.
+===============================================================================

@@ -1,0 +1,342 @@
+{
+    "extension": "linecount",
+    "version": "0.1.7",
+    "workspace": "/media/mycs/564E07364E070F05/BIBLIOTHEQUES/PROJETS/ANGULAR/angular-tour-of-heroes",
+    "linecount": [
+        {
+            "version": "0.1.7",
+            "counttime": "2018-03-09 22:51:00",
+            "filesum": 54,
+            "codesum": 13795,
+            "commentsum": 132,
+            "blanksum": 208,
+            "filelist": [
+                {
+                    "blank": 2,
+                    "code": 58,
+                    "comment": 0,
+                    "filename": ".angular-cli.json"
+                },
+                {
+                    "blank": 2,
+                    "code": 11,
+                    "comment": 1,
+                    "filename": ".editorconfig"
+                },
+                {
+                    "blank": 4,
+                    "code": 18,
+                    "comment": 24,
+                    "filename": ".gitignore"
+                },
+                {
+                    "blank": 3,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": "e2e/app.e2e-spec.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "e2e/app.po.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "e2e/tsconfig.e2e.json"
+                },
+                {
+                    "blank": 1,
+                    "code": 30,
+                    "comment": 3,
+                    "filename": "karma.conf.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 12649,
+                    "comment": 0,
+                    "filename": "package-lock.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 49,
+                    "comment": 0,
+                    "filename": "package.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 23,
+                    "comment": 2,
+                    "filename": "protractor.conf.js"
+                },
+                {
+                    "blank": 13,
+                    "code": 14,
+                    "comment": 5,
+                    "filename": "README.md"
+                },
+                {
+                    "blank": 4,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": "src/app/app-routing.module.ts"
+                },
+                {
+                    "blank": 5,
+                    "code": 28,
+                    "comment": 0,
+                    "filename": "src/app/app.component.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "src/app/app.component.html"
+                },
+                {
+                    "blank": 0,
+                    "code": 27,
+                    "comment": 0,
+                    "filename": "src/app/app.component.spec.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "src/app/app.component.ts"
+                },
+                {
+                    "blank": 3,
+                    "code": 40,
+                    "comment": 1,
+                    "filename": "src/app/app.module.ts"
+                },
+                {
+                    "blank": 14,
+                    "code": 63,
+                    "comment": 1,
+                    "filename": "src/app/dashboard/dashboard.component.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "src/app/dashboard/dashboard.component.html"
+                },
+                {
+                    "blank": 5,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "src/app/dashboard/dashboard.component.spec.ts"
+                },
+                {
+                    "blank": 7,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "src/app/dashboard/dashboard.component.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 29,
+                    "comment": 1,
+                    "filename": "src/app/hero-detail/hero-detail.component.css"
+                },
+                {
+                    "blank": 1,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": "src/app/hero-detail/hero-detail.component.html"
+                },
+                {
+                    "blank": 5,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "src/app/hero-detail/hero-detail.component.spec.ts"
+                },
+                {
+                    "blank": 8,
+                    "code": 33,
+                    "comment": 0,
+                    "filename": "src/app/hero-detail/hero-detail.component.ts"
+                },
+                {
+                    "blank": 3,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "src/app/hero.service.spec.ts"
+                },
+                {
+                    "blank": 17,
+                    "code": 62,
+                    "comment": 16,
+                    "filename": "src/app/hero.service.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "src/app/hero.ts"
+                },
+                {
+                    "blank": 8,
+                    "code": 65,
+                    "comment": 1,
+                    "filename": "src/app/heroes/heroes.component.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 18,
+                    "comment": 1,
+                    "filename": "src/app/heroes/heroes.component.html"
+                },
+                {
+                    "blank": 5,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "src/app/heroes/heroes.component.spec.ts"
+                },
+                {
+                    "blank": 10,
+                    "code": 31,
+                    "comment": 0,
+                    "filename": "src/app/heroes/heroes.component.ts"
+                },
+                {
+                    "blank": 3,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "src/app/in-memory-data.service.spec.ts"
+                },
+                {
+                    "blank": 3,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "src/app/in-memory-data.service.ts"
+                },
+                {
+                    "blank": 3,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "src/app/message.service.spec.ts"
+                },
+                {
+                    "blank": 5,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "src/app/message.service.ts"
+                },
+                {
+                    "blank": 6,
+                    "code": 31,
+                    "comment": 1,
+                    "filename": "src/app/messages/messages.component.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "src/app/messages/messages.component.html"
+                },
+                {
+                    "blank": 5,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "src/app/messages/messages.component.spec.ts"
+                },
+                {
+                    "blank": 6,
+                    "code": 12,
+                    "comment": 1,
+                    "filename": "src/app/messages/messages.component.ts"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "src/assets/.gitkeep"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "src/environments/environment.prod.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 3,
+                    "comment": 4,
+                    "filename": "src/environments/environment.ts"
+                },
+                {
+                    "filename": "src/favicon.ico",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 1,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "src/index.html"
+                },
+                {
+                    "blank": 3,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "src/main.ts"
+                },
+                {
+                    "blank": 15,
+                    "code": 2,
+                    "comment": 63,
+                    "filename": "src/polyfills.ts"
+                },
+                {
+                    "blank": 5,
+                    "code": 20,
+                    "comment": 2,
+                    "filename": "src/styles.css"
+                },
+                {
+                    "blank": 3,
+                    "code": 13,
+                    "comment": 4,
+                    "filename": "src/test.ts"
+                },
+                {
+                    "blank": 1,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "src/tsconfig.app.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": "src/tsconfig.spec.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 4,
+                    "comment": 1,
+                    "filename": "src/typings.d.ts"
+                },
+                {
+                    "blank": 2,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": "tsconfig.json"
+                },
+                {
+                    "blank": 14,
+                    "code": 129,
+                    "comment": 0,
+                    "filename": "tslint.json"
+                }
+            ]
+        }
+    ]
+}
